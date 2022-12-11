@@ -6,7 +6,7 @@ public class example1 {
 	{
 		//Step 1. Array declaration:
 		
-		int [] arr= new int[6];// first index=0  last index= 4
+		int [] arr= new int[7];// first index=0  last index= 4
 		
 		//Step 2. Array initialization: provide the information to an array
 		
@@ -16,6 +16,7 @@ public class example1 {
 		arr[3]=40;
 		arr[4]=50;
 		arr[5]=10;
+		arr[6]=30;
 		
 		//Step 3. Array usage
 		//using index
@@ -25,6 +26,7 @@ public class example1 {
 		System.out.println(arr[3]);
 		System.out.println(arr[4]);
 		System.out.println(arr[5]);
+		System.out.println(arr[6]);
 		
 		//using for loop
 		for(int i=0;i<=4;i++)
