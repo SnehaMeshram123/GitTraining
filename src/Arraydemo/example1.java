@@ -28,7 +28,7 @@ public class example1 {
 		System.out.println(arr[5]);
 		System.out.println(arr[6]);
 		System.out.println(arr[6]);
-		
+		System.out.println(arr[6]);
 		//using for loop
 		for(int i=0;i<=4;i++)
 		{
