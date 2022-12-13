@@ -28,6 +28,7 @@ public class example2 {
 		//find size of array
 		System.out.println("Size of str is"+str.length);
 		System.out.println(grade.length);
+		System.out.println(grade.length);
 		
 		for(int i=0;i<=str.length-1;i++)
 		{
